@@ -23,7 +23,7 @@ The model was trained for **300 epochs** using a **Cosine Annealing scheduler** 
 | **Overall Avg** | **28.078** | **0.972** |
 *(Results verified on a model with 2.74M parameters)*
 
-## 🖼️ Qualitative Comparison
+## Qualitative Comparison
 ### Heavy Rain (Rain100H)
 ![Rain100H Results](results/Rain100H_1.png)
 *Left: Input | Middle: Our Result | Right: Ground Truth*
