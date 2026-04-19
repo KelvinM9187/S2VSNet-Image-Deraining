@@ -22,11 +22,3 @@ The model was trained for **300 epochs** using a **Cosine Annealing scheduler** 
 | Test1200 | 31.845 | 0.981 |
 | **Overall Avg** | **28.078** | **0.972** |
 *(Results verified on a model with 2.74M parameters)*
-
-## Qualitative Comparison
-### Heavy Rain (Rain100H)
-![Rain100H Results](results/Rain100H_1.png)
-*Left: Input | Middle: Our Result | Right: Ground Truth*
-
-### Outdoor Scenes (Test2800)
-![Test2800 Results](results/Test2800_1000.png)
